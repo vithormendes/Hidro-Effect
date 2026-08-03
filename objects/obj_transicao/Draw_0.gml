@@ -5,5 +5,11 @@ if(visivel)
 	{
 		draw_text(x,y,"Nao ative a hidrovia");
 	}
+	if(global.nivel=1)
+	{
+		draw_text(x,y-16,"a agua continua fluindo...");
+		draw_text(x,y,"uma tromba d'agua se formou");
+	}
 	draw_text(x,y+50,"pressione 'e' para continuar");
+	
 }
