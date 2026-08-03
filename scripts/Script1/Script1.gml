@@ -3,3 +3,4 @@ global.armadilhas=false;
 global.px=noone;
 global.py=noone;
 global.mensagem=false;
+global.nivel=-1;

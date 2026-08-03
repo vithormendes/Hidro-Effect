@@ -1,2 +1,9 @@
-image_alpha=0.5;
+if(global.nivel=-1)
+{
+	image_alpha=0;
+}
+if(global.nivel=0)
+{
+	image_alpha=0.5;
+}
 texto=noone;

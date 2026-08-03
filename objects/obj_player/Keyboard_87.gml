@@ -1,1 +1,4 @@
-y-=vel;
+if(global.nivel>-1)
+{
+	y-=vel;
+}

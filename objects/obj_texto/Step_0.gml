@@ -1,4 +1,4 @@
-if(balao=0)
+if(balao=3)
 {
 	x= global.px;
 	y= global.py-16;
