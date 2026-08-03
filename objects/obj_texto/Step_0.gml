@@ -1,2 +1,2 @@
 x= global.px;
-y= global.py;
+y= global.py-16;
