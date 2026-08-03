@@ -5,3 +5,31 @@ if(porta=0)
 		instance_destroy();
 	}
 }
+if(porta=1)
+{
+	if(global.chave1)
+	{
+		instance_destroy();
+	}
+}
+if(porta=2)
+{
+	if(global.chave2)
+	{
+		instance_destroy();
+	}
+}
+if(porta=3)
+{
+	if(global.chave3)
+	{
+		instance_destroy();
+	}
+}
+if(porta=4)
+{
+	if(global.chave4)
+	{
+		instance_destroy();
+	}
+}

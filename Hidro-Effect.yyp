@@ -39,6 +39,7 @@
   "resources":[
     {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},},
     {"id":{"name":"Font2","path":"fonts/Font2/Font2.yy",},},
+    {"id":{"name":"obj_chave","path":"objects/obj_chave/obj_chave.yy",},},
     {"id":{"name":"obj_parede","path":"objects/obj_parede/obj_parede.yy",},},
     {"id":{"name":"obj_pedestal","path":"objects/obj_pedestal/obj_pedestal.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},

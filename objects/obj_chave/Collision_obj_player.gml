@@ -1,0 +1,23 @@
+if keyboard_check_pressed(69)
+{
+	if(chave=1)
+	{
+		global.chave1=true;
+		instance_destroy();
+	}
+	if(chave=2)
+	{
+		global.chave2=true;
+		instance_destroy();
+	}
+	if(chave=3)
+	{
+		global.chave3=true;
+		instance_destroy();
+	}
+	if(chave=4)
+	{
+		global.chave4=true;
+		instance_destroy();
+	}
+}
