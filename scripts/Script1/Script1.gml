@@ -4,4 +4,3 @@ global.px=noone;
 global.py=noone;
 global.mensagem=false;
 global.nivel=-1;
-global.transicao=false;

@@ -1,7 +1,7 @@
 x=global.px;
 y=global.py;
 
-if(global.transicao)
+if(not visivel)
 {
 	image_alpha-=alpha;
 }

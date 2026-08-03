@@ -4,7 +4,9 @@ draw_set_halign(1);
 draw_set_valign(1);
 if(balao=1)
 {
+	draw_set_font(Font2);
 	draw_text(x,y,"Hidro Effect");
+	draw_set_font(Font1);
 }
 if(balao=2)
 {
