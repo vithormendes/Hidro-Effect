@@ -47,6 +47,7 @@
     {"name":"inst_5E3AB5B","path":"rooms/rm_nivel2/rm_nivel2.yy",},
     {"name":"inst_463650C3","path":"rooms/rm_nivel2/rm_nivel2.yy",},
     {"name":"inst_639D05CC","path":"rooms/rm_nivel2/rm_nivel2.yy",},
+    {"name":"inst_701F36E3","path":"rooms/rm_nivel2/rm_nivel2.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -59,6 +60,7 @@
     {"$GMRInstanceLayer":"","%Name":"criaturas","depth":100,"effectEnabled":true,"effectType":null,"gridX":4,"gridY":4,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v4","%Name":"inst_6B8B16A2_1","colour":4294967040,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6B8B16A2_1","objectId":{"name":"obj_agua_viva","path":"objects/obj_agua_viva/obj_agua_viva.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":316.0,"y":196.0,},
         {"$GMRInstance":"v4","%Name":"inst_496E17EA1","colour":4294967040,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_496E17EA1","objectId":{"name":"obj_agua_viva","path":"objects/obj_agua_viva/obj_agua_viva.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":184.0,"y":196.0,},
+        {"$GMRInstance":"v4","%Name":"inst_701F36E3","colour":4294901760,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_701F36E3","objectId":{"name":"obj_atirador","path":"objects/obj_atirador/obj_atirador.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":252.0,"y":196.0,},
       ],"layers":[],"name":"criaturas","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"parede","depth":200,"effectEnabled":true,"effectType":null,"gridX":8,"gridY":8,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v4","%Name":"inst_3E555D20_2_2_1","colour":4294922240,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_3E555D20_2_2_1","objectId":{"name":"obj_parede","path":"objects/obj_parede/obj_parede.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":18.0,"scaleY":1.0,"x":264.0,"y":160.0,},
