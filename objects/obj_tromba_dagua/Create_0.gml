@@ -1,0 +1,10 @@
+if(global.armadilhas)
+{
+	randomize();
+	velx=choose(0.9,-0.9);
+	vely=choose(0.7,-0.7);
+}
+else
+{
+	instance_destroy();
+}

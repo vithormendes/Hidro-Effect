@@ -1,0 +1,12 @@
+if(global.criaturas)
+{
+	randomize();
+	x=choose(160,356)
+	y=choose(220,348)
+	alarm[0]=room_speed*0.5
+	alarm[1]=room_speed*10
+}
+else
+{
+	instance_destroy();
+}

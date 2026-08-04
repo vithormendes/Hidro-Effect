@@ -64,6 +64,7 @@
     {"name":"inst_52CC8E29","path":"rooms/rm_nivel4/rm_nivel4.yy",},
     {"name":"inst_430DEAF5","path":"rooms/rm_nivel4/rm_nivel4.yy",},
     {"name":"inst_399A10B8","path":"rooms/rm_nivel4/rm_nivel4.yy",},
+    {"name":"inst_74EBECF","path":"rooms/rm_nivel4/rm_nivel4.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -74,7 +75,8 @@
         {"$GMRInstance":"v4","%Name":"inst_83C37C8_1","colour":4278190080,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_83C37C8_1","objectId":{"name":"obj_transicao","path":"objects/obj_transicao/obj_transicao.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":34.5,"scaleY":20.5,"x":524.0,"y":508.0,},
       ],"layers":[],"name":"balao","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"criaturas","depth":100,"effectEnabled":true,"effectType":null,"gridX":4,"gridY":4,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"$GMRInstance":"v4","%Name":"inst_399A10B8","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_399A10B8","objectId":{"name":"bosses","path":"objects/bosses/bosses.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":7.0,"scaleY":7.0,"x":260.0,"y":252.0,},
+        {"$GMRInstance":"v4","%Name":"inst_399A10B8","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_399A10B8","objectId":{"name":"obj_tromba_dagua","path":"objects/obj_tromba_dagua/obj_tromba_dagua.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":7.0,"scaleY":7.0,"x":260.0,"y":252.0,},
+        {"$GMRInstance":"v4","%Name":"inst_74EBECF","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_74EBECF","objectId":{"name":"obj_criatura","path":"objects/obj_criatura/obj_criatura.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":7.0,"scaleY":7.0,"x":160.0,"y":220.0,},
       ],"layers":[],"name":"criaturas","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"parede","depth":200,"effectEnabled":true,"effectType":null,"gridX":8,"gridY":8,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v4","%Name":"inst_7EA9AE30_2","colour":4294922240,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_7EA9AE30_2","objectId":{"name":"obj_parede","path":"objects/obj_parede/obj_parede.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":26.0,"x":224.0,"y":264.0,},
