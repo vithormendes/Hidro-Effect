@@ -1,10 +1,9 @@
-if(balao=3)
+if(balao=4)
 {
 	x= global.px;
 	y= global.py-16;
 	if(global.mensagem)
 	{
-		visivel=true;
 		image_alpha+=alpha;
 		if(image_alpha>=0.5)
 		{
@@ -20,6 +19,3 @@ if(balao=3)
 		}
 	}
 }
-
-global.mensagem=false;
-visivel=false;

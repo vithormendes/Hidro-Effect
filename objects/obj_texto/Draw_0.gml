@@ -14,27 +14,25 @@ if(balao=2)
 }
 if(balao=3)
 {
-	if(visivel)
-	{
-		if(global.mensagem)
-		{
-			texto="e";
-		}
-		else
-		{
-			texto="w a s d";
-		}
-		draw_text(global.px,global.py-16,texto);
-	}
+	image_alpha=0.5;
+	draw_text(x,y,"w a s d");
 }
 if(balao=4)
 {
-	
-	draw_text(x,y-4,"ativar");
-	draw_text(x,y+4,"criaturas");
+	if(global.mensagem)
+	{
+		draw_text(global.px,global.py-16,"e");
+	}
 }
 if(balao=5)
 {
+	image_alpha=0.5;
+	draw_text(x,y-4,"ativar");
+	draw_text(x,y+4,"criaturas");
+}
+if(balao=6)
+{
+	image_alpha=0.5;
 	draw_text(x,y-4,"ativar");
 	draw_text(x,y+4,"armadilhas");
 }
