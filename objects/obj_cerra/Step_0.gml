@@ -1,8 +1,11 @@
-if(direcao)
+if(global.armadilhas)
 {
-	y+=vel;
-}
-else
-{
-	x+=vel;
+	if(direcao)
+	{
+		y+=vel;
+	}
+	else
+	{
+		x+=vel;
+	}
 }

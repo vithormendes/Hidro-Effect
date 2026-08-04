@@ -36,11 +36,35 @@ if(visivel)
 			draw_text(x,y+50,"pressione 'e' para continuar");
 		}
 	}
+	if(global.nivel=3)
+	{
+		if(global.criaturas)
+		{
+			draw_text(x,y-16,"a agua continua fluindo...");
+			draw_text(x,y,"os farejadores se libertaram");
+			draw_text(x,y+50,"pressione 'e' para continuar");
+		}
+		if(global.armadilhas)
+		{
+			draw_text(x,y-16,"a agua continua fluindo...");
+			draw_text(x,y,"as cerras se ativaram");
+			draw_text(x,y+50,"pressione 'e' para continuar");
+		}
+	}
 	if(global.nivel=4)
 	{
-		draw_text(x,y-16,"a agua continua fluindo...");
-		draw_text(x,y,"uma tromba d'agua se formou");
-		draw_text(x,y+50,"pressione 'e' para continuar");
+		if(global.criaturas)
+		{
+			draw_text(x,y-16,"a agua continua fluindo...");
+			draw_text(x,y,"a criatura se libertou");
+			draw_text(x,y+50,"pressione 'e' para continuar");
+		}
+		if(global.armadilhas)
+		{
+			draw_text(x,y-16,"a agua continua fluindo...");
+			draw_text(x,y,"uma tromba d'agua se formou");
+			draw_text(x,y+50,"pressione 'e' para continuar");
+		}
 	}
 	if(global.nivel=5)
 	{
