@@ -49,6 +49,7 @@
     {"id":{"name":"obj_texto","path":"objects/obj_texto/obj_texto.yy",},},
     {"id":{"name":"obj_transicao","path":"objects/obj_transicao/obj_transicao.yy",},},
     {"id":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
+    {"id":{"name":"rm_nivel_fim","path":"rooms/rm_nivel_fim/rm_nivel_fim.yy",},},
     {"id":{"name":"rm_nivel4","path":"rooms/rm_nivel4/rm_nivel4.yy",},},
     {"id":{"name":"rm_tutorial","path":"rooms/rm_tutorial/rm_tutorial.yy",},},
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
@@ -61,6 +62,7 @@
     {"roomId":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
     {"roomId":{"name":"rm_tutorial","path":"rooms/rm_tutorial/rm_tutorial.yy",},},
     {"roomId":{"name":"rm_nivel4","path":"rooms/rm_nivel4/rm_nivel4.yy",},},
+    {"roomId":{"name":"rm_nivel_fim","path":"rooms/rm_nivel_fim/rm_nivel_fim.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

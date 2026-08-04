@@ -10,6 +10,10 @@ if(visivel)
 		draw_text(x,y-16,"a agua continua fluindo...");
 		draw_text(x,y,"uma tromba d'agua se formou");
 	}
+	if(global.nivel=2)
+	{
+		draw_text(x,y-16,"a agua continua fluindo...");
+		draw_text(x,y,"uma escolha dificil");
+	}
 	draw_text(x,y+50,"pressione 'e' para continuar");
-	
 }
