@@ -1,0 +1,28 @@
+if(chave=1)
+{
+	if(global.chave1)
+	{
+		instance_destroy();
+	}
+}
+if(chave=2)
+{
+	if(global.chave2)
+	{
+		instance_destroy();
+	}
+}
+if(chave=3)
+{
+	if(global.chave3)
+	{
+		instance_destroy();
+	}
+}
+if(chave=4)
+{
+	if(global.chave4)
+	{
+		instance_destroy();
+	}
+}

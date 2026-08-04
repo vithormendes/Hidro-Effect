@@ -14,15 +14,18 @@ if(balao=2)
 }
 if(balao=3)
 {
-	if(global.mensagem)
+	if(visivel)
 	{
-		texto="e";
+		if(global.mensagem)
+		{
+			texto="e";
+		}
+		else
+		{
+			texto="w a s d";
+		}
+		draw_text(global.px,global.py-16,texto);
 	}
-	else
-	{
-		texto="w a s d";
-	}
-	draw_text(global.px,global.py-16,texto);
 }
 if(balao=4)
 {
