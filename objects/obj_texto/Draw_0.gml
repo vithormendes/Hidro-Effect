@@ -36,3 +36,11 @@ if(balao=6)
 	draw_text(x,y-4,"ativar");
 	draw_text(x,y+4,"armadilhas");
 }
+if(balao=7)
+{
+	image_alpha=0.5;
+	draw_text(x,y-12,"se ativar a alavanca");
+	draw_text(x,y-4,"o mundo sera inundado");
+	draw_text(x,y+4,"se nao ativar morrera");
+	draw_text(x,y+12,"dentro da hidrovia");
+}
