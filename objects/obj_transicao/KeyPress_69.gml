@@ -1,5 +1,5 @@
 visivel=false;
-if (global.nivel=4)
+if (global.nivel=6)
 {
 	visivel=true;
 }
