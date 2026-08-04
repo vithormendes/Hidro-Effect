@@ -1,0 +1,10 @@
+colisao1=false;
+colisao2=false;
+if(pedestal=0)
+{
+	colisao1=false;
+}
+if(pedestal=1)
+{
+	colisao2=false;
+}

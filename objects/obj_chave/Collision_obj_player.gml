@@ -1,4 +1,3 @@
-global.mensagem=true;
 if keyboard_check_pressed(69)
 {
 	if(chave=1)
