@@ -8,17 +8,33 @@ if(visivel)
 	}
 	if(global.nivel=1)
 	{
+		if(global.criaturas)
+		{
+			draw_text(x,y-16,"a agua continua fluindo...");
+			draw_text(x,y,"criaturas nivel 1 se libertaram");
+			draw_text(x,y+50,"pressione 'e' para continuar");
+		}
+		if(global.armadilhas)
+		{
+			draw_text(x,y-16,"a agua continua fluindo...");
+			draw_text(x,y,"armadilhas nivel 1 ativadaram");
+			draw_text(x,y+50,"pressione 'e' para continuar");
+		}
+		
+	}
+	if(global.nivel=2)
+	{
 		draw_text(x,y-16,"a agua continua fluindo...");
 		draw_text(x,y,"uma tromba d'agua se formou");
 		draw_text(x,y+50,"pressione 'e' para continuar");
 	}
-	if(global.nivel=2)
+	if(global.nivel=3)
 	{
 		draw_text(x,y-16,"a agua continua fluindo...");
 		draw_text(x,y,"uma escolha dificil");
 		draw_text(x,y+50,"pressione 'e' para continuar");
 	}
-	if(global.nivel=3)
+	if(global.nivel=4)
 	{
 		if(global.fim)
 		{
