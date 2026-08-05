@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_1",
-    "path":"sprites/spr_1/spr_1.yy",
+    "name":"spr_projetil",
+    "path":"sprites/spr_projetil/spr_projetil.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_1",
-    "path":"sprites/spr_1/spr_1.yy",
+    "name":"spr_farejador",
+    "path":"sprites/spr_farejador/spr_farejador.yy",
   },
   "spriteMaskId":null,
   "visible":true,
