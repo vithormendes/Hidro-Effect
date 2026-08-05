@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_1",
-    "path":"sprites/spr_1/spr_1.yy",
+    "name":"spr_tromba_dagua",
+    "path":"sprites/spr_tromba_dagua/spr_tromba_dagua.yy",
   },
   "spriteMaskId":null,
   "visible":true,
