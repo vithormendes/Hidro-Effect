@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_2",
-    "path":"sprites/spr_2/spr_2.yy",
+    "name":"spr_chao2",
+    "path":"sprites/spr_chao2/spr_chao2.yy",
   },
   "spriteMaskId":null,
   "visible":true,
