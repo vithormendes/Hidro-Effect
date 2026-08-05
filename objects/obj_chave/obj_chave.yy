@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_2",
-    "path":"sprites/spr_2/spr_2.yy",
+    "name":"spr_chave",
+    "path":"sprites/spr_chave/spr_chave.yy",
   },
   "spriteMaskId":null,
   "visible":true,

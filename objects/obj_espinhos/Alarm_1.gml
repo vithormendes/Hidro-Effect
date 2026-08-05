@@ -1,3 +1,3 @@
 ativado=false;
-image_blend=c_lime;
+image_index=0;
 alarm[0]=room_speed*2;
