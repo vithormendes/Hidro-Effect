@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_2",
-    "path":"sprites/spr_2/spr_2.yy",
+    "name":"spr_buraco",
+    "path":"sprites/spr_buraco/spr_buraco.yy",
   },
   "spriteMaskId":null,
   "visible":true,

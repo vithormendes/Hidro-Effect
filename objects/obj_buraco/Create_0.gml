@@ -1,8 +1,8 @@
 if(global.armadilhas)
 {
-	image_blend=c_orange;
+	image_index=0;
 }
 else
 {
-	image_blend=c_gray;
+	image_index=1;
 }

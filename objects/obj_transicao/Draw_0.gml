@@ -11,7 +11,7 @@ if(visivel)
 		if(global.criaturas)
 		{
 			draw_text(x,y-16,"a agua continua fluindo...");
-			draw_text(x,y,"criaturas nivel 1 se libertaram");
+			draw_text(x,y,"as aguas vivas se libertaram");
 			draw_text(x,y+50,"pressione 'e' para continuar");
 		}
 		if(global.armadilhas)
@@ -26,7 +26,7 @@ if(visivel)
 		if(global.criaturas)
 		{
 			draw_text(x,y-16,"a agua continua fluindo...");
-			draw_text(x,y,"criaturas nivel 2 se libertaram");
+			draw_text(x,y,"os atiradores se libertaram");
 			draw_text(x,y+50,"pressione 'e' para continuar");
 		}
 		if(global.armadilhas)
