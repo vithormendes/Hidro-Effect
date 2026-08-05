@@ -1,8 +1,3 @@
-//if keyboard_check(87 or 83 or 68 or 65)
-//{
-	//speed=vel;
-//}
-
 camerax=camera_get_view_width(view_camera[0])/2;
 cameray=camera_get_view_height(view_camera[0])/2;
 camera_set_view_pos(view_camera[0],x-camerax,y-cameray);
