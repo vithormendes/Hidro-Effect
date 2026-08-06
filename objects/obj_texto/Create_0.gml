@@ -2,4 +2,8 @@ if(global.nivel=-1)
 {
 	image_alpha=0;
 }
+if(balao=8)
+{
+	image_alpha=0.5;
+}
 alpha=0.05;

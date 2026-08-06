@@ -44,3 +44,12 @@ if(balao=7)
 	draw_text(x,y+4,"se nao ativar morrera");
 	draw_text(x,y+12,"dentro da hidrovia");
 }
+if(balao=8)
+{
+	if(global.nivel=6)
+	{
+		x=global.px;
+		y=global.py+32;
+		draw_text(x,y,"voltar ao menu");
+	}
+}

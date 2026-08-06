@@ -4,24 +4,24 @@ if keyboard_check_pressed(69)
 	{
 		global.chave1=true;
 		instance_destroy();
-		audio_play_sound(snd_pedestal,3,false,1,0,2);
+		audio_play_sound(snd_chave,3,false,1,0,1);
 	}
 	if(chave=2)
 	{
 		global.chave2=true;
 		instance_destroy();
-		audio_play_sound(snd_pedestal,3,false,1,0,2);
+		audio_play_sound(snd_chave,3,false,1,0,1);
 	}
 	if(chave=3)
 	{
 		global.chave3=true;
 		instance_destroy();
-		audio_play_sound(snd_pedestal,3,false,1,0,2);
+		audio_play_sound(snd_chave,3,false,1,0,1);
 	}
 	if(chave=4)
 	{
 		global.chave4=true;
 		instance_destroy();
-		audio_play_sound(snd_pedestal,3,false,1,0,2);
+		audio_play_sound(snd_chave,3,false,1,0,1);
 	}
 }
