@@ -3,6 +3,7 @@ if(andando)
 	if(global.nivel<6)
 	{
 		audio_play_sound(snd_passo,2,false,1,0,1);
+		instance_create_layer(x,y,"particula",obj_particulas);
 	}
 }
 andando=false;

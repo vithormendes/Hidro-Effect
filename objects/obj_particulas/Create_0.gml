@@ -1,0 +1,10 @@
+if(global.nivel>3)
+{
+	sprite_index=spr_particulas;
+	alarm[0]=60;
+}
+else
+{
+	sprite_index=spr_particulas2;
+	alarm[0]=30;
+}
