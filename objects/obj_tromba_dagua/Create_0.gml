@@ -1,8 +1,8 @@
 if(global.armadilhas)
 {
 	randomize();
-	velx=choose(0.9,-0.9);
-	vely=choose(0.7,-0.7);
+	velx=choose(0.7,-0.7);
+	vely=choose(0.6,-0.6);
 }
 else
 {

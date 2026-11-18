@@ -11,3 +11,4 @@ if(global.armadilhas)
 		vely=-vely;
 	}
 }
+image_angle+=1;

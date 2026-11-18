@@ -97,6 +97,7 @@
     {"id":{"name":"spr_porta","path":"sprites/spr_porta/spr_porta.yy",},},
     {"id":{"name":"spr_projetil","path":"sprites/spr_projetil/spr_projetil.yy",},},
     {"id":{"name":"spr_transicao","path":"sprites/spr_transicao/spr_transicao.yy",},},
+    {"id":{"name":"spr_tromba_dagua_1","path":"sprites/spr_tromba_dagua_1/spr_tromba_dagua_1.yy",},},
     {"id":{"name":"spr_tromba_dagua","path":"sprites/spr_tromba_dagua/spr_tromba_dagua.yy",},},
   ],
   "resourceType":"GMProject",
