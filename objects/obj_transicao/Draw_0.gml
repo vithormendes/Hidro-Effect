@@ -47,7 +47,7 @@ if(visivel)
 		if(global.armadilhas)
 		{
 			draw_text(x,y-16,"a agua continua fluindo...");
-			draw_text(x,y,"as cerras se ativaram");
+			draw_text(x,y,"as serras se ativaram");
 			draw_text(x,y+50,"pressione 'e' para continuar");
 		}
 	}
