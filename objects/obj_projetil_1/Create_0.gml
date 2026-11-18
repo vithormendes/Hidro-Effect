@@ -1,0 +1,11 @@
+randomize();
+direcao=irandom_range(1,2);
+if(direcao=1)
+{
+	direction=point_direction(x,y,global.px,global.py);
+}
+if(direcao=2)
+{
+	direction=random_range(0,360);
+}
+speed=0.8;
