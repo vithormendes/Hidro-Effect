@@ -4,7 +4,7 @@ if(visivel)
 	if(global.nivel=0)
 	{
 		draw_text(x,y,"Nao ative a hidrovia");
-		draw_text(x,y+50,"pressione 'e' para continuar");
+		draw_text(x,y+50,"pressione 'space' para continuar");
 	}
 	if(global.nivel=1)
 	{
@@ -12,13 +12,13 @@ if(visivel)
 		{
 			draw_text(x,y-16,"a agua continua fluindo...");
 			draw_text(x,y,"as aguas vivas se libertaram");
-			draw_text(x,y+50,"pressione 'e' para continuar");
+			draw_text(x,y+50,"pressione 'space' para continuar");
 		}
 		if(global.armadilhas)
 		{
 			draw_text(x,y-16,"a agua continua fluindo...");
 			draw_text(x,y,"espinhos se ativaram");
-			draw_text(x,y+50,"pressione 'e' para continuar");
+			draw_text(x,y+50,"pressione 'space' para continuar");
 		}
 	}
 	if(global.nivel=2)
@@ -27,13 +27,13 @@ if(visivel)
 		{
 			draw_text(x,y-16,"a agua continua fluindo...");
 			draw_text(x,y,"os atiradores se libertaram");
-			draw_text(x,y+50,"pressione 'e' para continuar");
+			draw_text(x,y+50,"pressione 'space' para continuar");
 		}
 		if(global.armadilhas)
 		{
 			draw_text(x,y-16,"a agua continua fluindo...");
 			draw_text(x,y,"abismos foram formados");
-			draw_text(x,y+50,"pressione 'e' para continuar");
+			draw_text(x,y+50,"pressione 'space' para continuar");
 		}
 	}
 	if(global.nivel=3)
@@ -42,13 +42,13 @@ if(visivel)
 		{
 			draw_text(x,y-16,"a agua continua fluindo...");
 			draw_text(x,y,"os farejadores se libertaram");
-			draw_text(x,y+50,"pressione 'e' para continuar");
+			draw_text(x,y+50,"pressione 'space' para continuar");
 		}
 		if(global.armadilhas)
 		{
 			draw_text(x,y-16,"a agua continua fluindo...");
 			draw_text(x,y,"as serras se ativaram");
-			draw_text(x,y+50,"pressione 'e' para continuar");
+			draw_text(x,y+50,"pressione 'space' para continuar");
 		}
 	}
 	if(global.nivel=4)
@@ -57,20 +57,20 @@ if(visivel)
 		{
 			draw_text(x,y-16,"a agua continua fluindo...");
 			draw_text(x,y,"a criatura se libertou");
-			draw_text(x,y+50,"pressione 'e' para continuar");
+			draw_text(x,y+50,"pressione 'space' para continuar");
 		}
 		if(global.armadilhas)
 		{
 			draw_text(x,y-16,"a agua continua fluindo...");
 			draw_text(x,y,"uma tromba d'agua se formou");
-			draw_text(x,y+50,"pressione 'e' para continuar");
+			draw_text(x,y+50,"pressione 'space' para continuar");
 		}
 	}
 	if(global.nivel=5)
 	{
 		draw_text(x,y-16,"a agua continua fluindo...");
 		draw_text(x,y,"uma escolha dificil");
-		draw_text(x,y+50,"pressione 'e' para continuar");
+		draw_text(x,y+50,"pressione 'space' para continuar");
 	}
 	if(global.nivel=6)
 	{

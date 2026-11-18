@@ -1,2 +1,2 @@
 instance_create_layer(x,y,"criaturas",obj_projetil);
-alarm[0]=room_speed*0.5
+alarm[0]=room_speed*1

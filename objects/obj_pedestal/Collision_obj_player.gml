@@ -1,6 +1,6 @@
 if(not global.criaturas and not global.armadilhas)
 {
-	if keyboard_check_pressed(69)
+	if keyboard_check_pressed(32)
 	{
 		if(pedestal=0)
 		{
@@ -16,7 +16,7 @@ if(not global.criaturas and not global.armadilhas)
 }
 if(not global.fim)
 {
-	if keyboard_check_pressed(69)
+	if keyboard_check_pressed(32)
 	{
 		if(pedestal=2)
 		{

@@ -10,7 +10,7 @@ if(balao=1)
 }
 if(balao=2)
 {
-	draw_text(x,y,"pressione 'e' para jogar");
+	draw_text(x,y,"pressione 'space' para jogar");
 }
 if(balao=3)
 {
@@ -21,7 +21,7 @@ if(balao=4)
 {
 	if(global.mensagem)
 	{
-		draw_text(global.px,global.py-16,"e");
+		draw_text(global.px,global.py-16,"space");
 	}
 }
 if(balao=5)

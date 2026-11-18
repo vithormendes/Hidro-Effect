@@ -9,7 +9,6 @@
     {"name":"inst_56B59EB3_1_2","path":"rooms/rm_nivel1/rm_nivel1.yy",},
     {"name":"inst_3E555D20_2_2","path":"rooms/rm_nivel1/rm_nivel1.yy",},
     {"name":"inst_341D5F97_1_2","path":"rooms/rm_nivel1/rm_nivel1.yy",},
-    {"name":"inst_9F05B91_1_2","path":"rooms/rm_nivel1/rm_nivel1.yy",},
     {"name":"inst_83C37C8_1_2","path":"rooms/rm_nivel1/rm_nivel1.yy",},
     {"name":"inst_6CA13270_2","path":"rooms/rm_nivel1/rm_nivel1.yy",},
     {"name":"inst_7B4400F1","path":"rooms/rm_nivel1/rm_nivel1.yy",},
@@ -35,13 +34,14 @@
     {"name":"inst_6B8B16A2","path":"rooms/rm_nivel1/rm_nivel1.yy",},
     {"name":"inst_496E17EA","path":"rooms/rm_nivel1/rm_nivel1.yy",},
     {"name":"inst_187A306F2","path":"rooms/rm_nivel1/rm_nivel1.yy",},
+    {"name":"inst_30C71A1E","path":"rooms/rm_nivel1/rm_nivel1.yy",},
   ],
   "isDnd":false,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"balao","depth":0,"effectEnabled":true,"effectType":null,"gridX":4,"gridY":4,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"$GMRInstance":"v4","%Name":"inst_9F05B91_1_2","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_9F05B91_1_2","objectId":{"name":"obj_texto","path":"objects/obj_texto/obj_texto.yy",},"properties":[
+        {"$GMRInstance":"v4","%Name":"inst_30C71A1E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_30C71A1E","objectId":{"name":"obj_texto","path":"objects/obj_texto/obj_texto.yy",},"properties":[
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_texto","path":"objects/obj_texto/obj_texto.yy",},"propertyId":{"name":"balao","path":"objects/obj_texto/obj_texto.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"4",},
-          ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.5,"scaleY":1.5,"x":434.0,"y":298.0,},
+          ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":5.0,"scaleY":1.5,"x":436.0,"y":296.0,},
         {"$GMRInstance":"v4","%Name":"inst_83C37C8_1_2","colour":4282532418,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_83C37C8_1_2","objectId":{"name":"obj_transicao","path":"objects/obj_transicao/obj_transicao.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":34.5,"scaleY":20.5,"x":556.0,"y":404.0,},
       ],"layers":[],"name":"balao","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"particulas2","animationFPS":30.0,"animationSpeedType":0,"colour":4286874756,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.05,"htiled":true,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"particulas2","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"spr_particulas3","path":"sprites/spr_particulas3/spr_particulas3.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.05,"vtiled":true,"x":0,"y":0,},

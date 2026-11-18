@@ -1,4 +1,23 @@
-randomize();
-	x=choose(160,356)
-	y=choose(220,348)
-	alarm[1]=room_speed*10
+if(vel=1)
+{
+	hspeed=0;
+	vspeed=1;
+}
+if(vel=2)
+{
+	hspeed=-1;
+	vspeed=0;
+}
+if(vel=3)
+{
+	hspeed=0;
+	vspeed=-1;
+}
+if(vel=4)
+{
+	hspeed=1;
+	vspeed=0;
+	vel=0;
+}
+vel+=1;
+alarm[1]=room_speed*3.5
